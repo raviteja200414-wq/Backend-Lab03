@@ -1,0 +1,4 @@
+delete http://localhost:3000/book
+# Content-Type: application/json
+
+# {"bookID":847366,"title": "kill", "authors": "Frank mellow", "average_rating": 4.23, "num_pages": 3909}
